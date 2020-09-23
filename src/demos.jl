@@ -1,4 +1,4 @@
-module ClassicalMechanicsDemos
+module demos
 
 greet() = print("Hello World!")
 
