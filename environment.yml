@@ -3,7 +3,6 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - numpy
   - sympy
   - nbgitpuller
   - jupyter_contrib_nbextensions
